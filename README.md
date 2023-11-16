@@ -1,2 +1,2 @@
-# BZ-Map-Suggestion-Discord-Bot
-Discord Bot providing a random suggestion of a Battlezone map to play.
+# Random Battlezone Map Suggestion Bot
+<img width="25%" src="./img/logo01.png">
