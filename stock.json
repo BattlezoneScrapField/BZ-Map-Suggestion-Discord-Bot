@@ -3,7 +3,7 @@
     "steam_workshop_URL": ""
   },
   "maps": {
-    "dunes": {
+    "Alien Dunes": {
       "gamemodes": [
         "ST",
         "STCTF",
