@@ -1,12 +1,22 @@
 {
-  "dunes": {
-    "gamemodes": ["ST", "STCTF", "MPI", "IA"],
-    "bmp": "st_dunes.dds",
-    "des": {
-      "st": "st_dunes.des",
-      "stctf": "stctf_dunes.des",
-      "mpi": "mpidunes.des",
-      "ia": "dunesi.des"
+  "mod_info": {
+    "steam_workshop_URL": ""
+  },
+  "maps": {
+    "dunes": {
+      "gamemodes": [
+        "ST",
+        "STCTF",
+        "MPI",
+        "IA"
+      ],
+      "bmp": "st_dunes.dds",
+      "des": {
+        "st": "st_dunes.des",
+        "stctf": "stctf_dunes.des",
+        "mpi": "mpidunes.des",
+        "ia": "dunesi.des"
+      }
     }
   }
 }
