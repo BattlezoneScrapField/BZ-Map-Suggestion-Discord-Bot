@@ -10,7 +10,7 @@
         "MPI",
         "IA"
       ],
-      "bmp": "st_dunes.dds",
+      "bmp": "st_dunes.png",
       "des": {
         "st": "st_dunes.des",
         "stctf": "stctf_dunes.des",
