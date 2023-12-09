@@ -1,6 +1,12 @@
 {
-  "NA": {
-    "NA": "T",
-    "NA": ""
+  "dunes": {
+    "gamemodes": ["ST", "STCTF", "MPI", "IA"],
+    "bmp": "st_dunes.dds",
+    "des": {
+      "st": "st_dunes.des",
+      "stctf": "stctf_dunes.des",
+      "mpi": "mpidunes.des",
+      "ia": "dunesi.des"
+    }
   }
 }
