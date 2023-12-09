@@ -1,22 +1,84 @@
 {
   "mod_info": {
-    "steam_workshop_URL": ""
+    "steam_workshop_URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=1450522956"
   },
   "maps": {
-    "dunes": {
+    "circle": {
       "gamemodes": [
-        "ST",
-        "STCTF",
         "MPI",
         "IA"
       ],
-      "bmp": "st_dunes.dds",
+      "bmp": "mpicircle.dds",
       "des": {
-        "st": "st_dunes.des",
-        "stctf": "stctf_dunes.des",
-        "mpi": "mpidunes.des",
-        "ia": "dunesi.des"
+        "mpi": "mpicircle.des",
+        "ia": "iacirclebzcc.des"
       }
-    }
+    },
+	"defend": {
+      "gamemodes": [
+        "MPI",
+        "IA"
+      ],
+      "bmp": "MPIDefend.dds",
+      "des": {
+        "mpi": "mpidefend.des",
+        "ia": "mpidefend.des"
+      }
+    },
+	"dust": {
+      "gamemodes": [
+        "MPI",
+        "IA"
+      ],
+      "bmp": "MPIDust.dds",
+      "des": {
+        "mpi": "iadust.des",
+        "ia": "mpidust.des"
+      }
+    },
+	"entrap": {
+      "gamemodes": [
+        "MPI",
+        "IA"
+      ],
+      "bmp": "MPIEntrap.dds",
+      "des": {
+        "mpi": "mpientrap.des",
+        "ia": "mpientrap.des"
+      }
+    },
+	"fire": {
+      "gamemodes": [
+        "MPI",
+        "IA"
+      ],
+      "bmp": "MPIFire.dds",
+      "des": {
+        "mpi": "mpifire.des",
+        "ia": "mpifire.des"
+      }
+    },	
+	"fort": {
+      "gamemodes": [
+        "MPI",
+        "IA"
+      ],
+      "bmp": "MPIFort.dds",
+      "des": {
+        "mpi": "mpifort.des",
+        "ia": "mpifort.des"
+      }
+    },
+	"ghzone": {
+      "gamemodes": [
+        "MPI",
+        "IA"
+      ],
+      "bmp": "MPIGHZone.dds",
+      "des": {
+        "mpi": "mpighzone.des",
+        "ia": "mpighzone.des"
+      }
+    },
   }
 }

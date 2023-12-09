@@ -1,0 +1,16 @@
+[DESCRIPTION]
+missionName = "IA: GH DustStorm"
+mapTga = "MPIDust.bmp"
+mapDesc = "mpidust.des"
+mySide = 0
+
+Aware_v13 = true
+
+RaceHuman = 105 // 105 = ascii 'i' for ISDF, 102 = 'f' for Scion
+RaceCPU = 102 // 105 = ascii 'i' for ISDF, 102 = 'f' for Scion
+
+ExtraOptions = "Default"
+
+options_instant_string0 = "stock_"  // Custom AIP base name, e.g. "stock13_" .
+options_instant_string1 = "ivrecy"    // Human Starting recycler
+options_instant_string2 = "ivrecy_cpu" // CPU starting recycler
